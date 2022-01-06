@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "target": "es2016",
+    /* Specify what module code is generated. */
+    "module": "commonjs",
+    /* Specify the root folder within your source files. */
+    // "rootDir": "./",
+    /* Specify an output folder for all emitted files. 输出的JavaScript文件所在的文件夹 */
+    "outDir": "out",
+    /* Enable all strict type-checking options. */
+    "strict": true,
+    /* Create source map files for emitted JavaScript files. 为了保持源文件和编译后文件之间的联系，设置为true可以通过.ts文件进行调试，方便使用*/
+    "sourceMap": true,
+  }
+}

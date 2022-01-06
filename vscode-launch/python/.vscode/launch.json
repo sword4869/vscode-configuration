@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Python: 当前文件",
+            "type": "python",       // 会根据settings.json里的defaultInterpreterPath去找python.exe的位置。
+            "request": "launch",
+            "program": "${file}",   // 当前选中要运行的py文件
+            "console": "integratedTerminal"
+        }
+    ]
+}

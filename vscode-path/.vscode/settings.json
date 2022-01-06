@@ -7,7 +7,7 @@
     // code-runner插件点击运行自动保存文件
     "code-runner.saveFileBeforeRun": true,
     // python配置，python.exe编译器的位置
-    "python.defaultInterpreterPath": "D:\\Python\\python.exe",
+    "python.defaultInterpreterPath": "E:\\MyHacker\\Python\\python.exeD:\\Python\\python.exe",
     // 配置python插件执行的命令：用上面python.exe编译器，编译要执行的文件
     "code-runner.executorMap": {
     	// 加上-u（unbuffered）参数后会强制其标准输出也同标准错误一样不通过缓存直接打印到屏幕
